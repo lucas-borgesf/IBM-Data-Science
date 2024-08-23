@@ -1,1 +1,1 @@
-Final exercise module 6, IBM Professional DataScience
+Exercises related to the IBM Professional Data Science course
